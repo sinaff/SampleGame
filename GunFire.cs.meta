@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfa882866f0ab2b498a7573aea12af8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BloodSpray: {instanceID: 0}
+  - particle: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: 30114844b380b88418785402b1e582c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
